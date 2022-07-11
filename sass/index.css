@@ -4,6 +4,11 @@
     background-repeat: no-repeat;
     background-color: blueviolet;
 }
+@media(min-width: 576px){
+    .bg-img{
+        background-image: url("../assent/bg-mobile.svg");
+    }
+}
 .texto-btn{
     color: blueviolet;
 }
