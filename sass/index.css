@@ -1,0 +1,17 @@
+.bg-img{
+    background-image: url("../assent/bg-desktop.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: blueviolet;
+}
+.texto-btn{
+    color: blueviolet;
+}
+.btn{
+    color: blueviolet;
+    background-color: white;
+}
+.btn:hover{
+    background-color: coral;
+    color: white;
+}
